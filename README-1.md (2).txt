@@ -1,4 +1,4 @@
-# Data Analytics Portfolio Projects
+# Data Analytics Portfolio Projects 
 
 This repository contains **5 complete, portfolio-ready Data Analytics projects**.
 
